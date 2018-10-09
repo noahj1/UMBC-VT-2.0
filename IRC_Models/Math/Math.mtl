@@ -1,0 +1,90 @@
+newmtl Ex_Math_Quads:Mesh2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Math_Quads:Mesh4336SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Math_Quads:Mesh4359SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_8.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Math_Quads:Mesh4385SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _15.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Math_Quads:Mesh4394SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Math_Quads:Mesh6037SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Math_Quads:Mesh6038SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ref_Mats:M_BrownLight_SG
+illum 4
+Kd 0.50 0.34 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Ref_Mats:M_Red_SG
+illum 4
+Kd 1.00 0.13 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Ref_Mats:M_Teal_SG
+illum 4
+Kd 0.15 0.79 0.87
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Ref_Mats:M_White_SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Ref_Mats:M_Wndws_SG
+illum 4
+Kd 0.27 0.65 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

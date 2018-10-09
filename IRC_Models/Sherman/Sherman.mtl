@@ -1,0 +1,103 @@
+newmtl Ex_Sherman_Quads:Mesh2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Quads:Mesh4359SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_8.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Quads:Mesh4385SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _15.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Quads:Mesh5632SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _Cladding_Siding_Tan_1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Tris:Mesh2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Tris:Mesh4612SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Tris:Mesh4680SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_8.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Tris:Mesh4719SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _15.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Sherman_Tris:Mesh6432SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _Cladding_Siding_Tan_1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl blinn1SG
+illum 4
+Kd 0.21 0.43 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert3SG
+illum 4
+Kd 0.31 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.22 0.17 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

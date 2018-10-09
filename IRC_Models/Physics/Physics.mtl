@@ -1,0 +1,107 @@
+newmtl Ex_Physics_Quads:Mesh5SG
+illum 4
+Kd 0.40 0.50 0.88
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh19SG
+illum 4
+Kd 0.40 0.50 0.88
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh4612SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh4719SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _15.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh5253SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Concrete_Aggregate_Smoke.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh5292SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd limestone_brick.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh7045SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_2.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Physics_Tris:Mesh7045SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cladding_Siding_Tan.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl lambert3SG
+illum 4
+Kd 0.56 0.69 0.89
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.00 0.36 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.50 0.43 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 1.00 0.98 0.41
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

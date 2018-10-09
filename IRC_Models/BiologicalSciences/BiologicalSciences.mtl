@@ -1,0 +1,195 @@
+newmtl Ex_Bio_Quads:Mesh2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh4336SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh4359SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_8.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh4385SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _15.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh4571SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh5632SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _Cladding_Siding_Tan_1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh6027SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Quads:Mesh6037SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Polished_Concrete_Old.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh4612SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh4680SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_8.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh4719SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _15.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh4961SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh6432SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _Cladding_Siding_Tan_1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh7164SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Bio_Tris:Mesh7200SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Polished_Concrete_Old.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl R:M_BrownLight_SG
+illum 4
+Kd 0.50 0.34 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_Pink_SG
+illum 4
+Kd 1.00 0.39 0.99
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_Red_SG
+illum 4
+Kd 1.00 0.13 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_Teal_SG
+illum 4
+Kd 0.15 0.79 0.87
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_White_SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_Wndws_SG
+illum 4
+Kd 0.27 0.65 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s_0.05_0.05_UvTest02_Col_Tex.jpg
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.11 0.25 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

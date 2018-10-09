@@ -1,0 +1,25 @@
+newmtl R:M_BrownLight_SG
+illum 4
+Kd 0.50 0.34 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_Gray_SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:M_Red_SG
+illum 4
+Kd 1.00 0.13 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl R:UvTest_MatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s_0.2_0.2_UvTest02_Col_Tex.jpg
+Ni 1.00

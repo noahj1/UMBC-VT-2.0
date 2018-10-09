@@ -1,0 +1,334 @@
+newmtl Brown_MatSG
+illum 4
+Kd 0.59 0.51 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Ex_Admin_Quads2:Mesh4336SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh4386SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6005SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_2.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG
+illum 4
+Kd 0.80 0.56 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG1
+illum 4
+Kd 0.83 0.78 0.56
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG2
+illum 4
+Kd 0.72 0.68 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG3
+illum 4
+Kd 0.49 0.73 0.33
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG4
+illum 4
+Kd 0.80 0.64 0.47
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG5
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.00 0.00 0.00
+Tf 0.70 0.70 0.70
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads2:Mesh6138SG7
+illum 4
+Kd 0.52 0.62 0.75
+Ka 0.00 0.00 0.00
+Tf 0.58 0.58 0.58
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh4336SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh4386SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6005SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_2.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG
+illum 4
+Kd 0.80 0.56 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG1
+illum 4
+Kd 0.83 0.78 0.56
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG2
+illum 4
+Kd 0.72 0.68 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG3
+illum 4
+Kd 0.49 0.73 0.33
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG4
+illum 4
+Kd 0.80 0.64 0.47
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG5
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.00 0.00 0.00
+Tf 0.70 0.70 0.70
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG7
+illum 4
+Kd 0.52 0.62 0.75
+Ka 0.00 0.00 0.00
+Tf 0.58 0.58 0.58
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Quads3:Mesh6138SG8
+illum 4
+Kd 0.60 0.60 0.60
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh4612SG
+illum 4
+Kd 0.56 0.59 0.67
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh4720SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd limestone_exist.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7045SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRICK_2.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG
+illum 4
+Kd 0.80 0.56 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG1
+illum 4
+Kd 0.83 0.78 0.56
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG2
+illum 4
+Kd 0.49 0.73 0.33
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG3
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.00 0.00 0.00
+Tf 0.70 0.70 0.70
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG4
+illum 4
+Kd 0.80 0.64 0.47
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG5
+illum 4
+Kd 0.52 0.62 0.75
+Ka 0.00 0.00 0.00
+Tf 0.58 0.58 0.58
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG6
+illum 4
+Kd 0.72 0.68 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material15b.png
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Admin_Tris:Mesh7795SG8
+illum 4
+Kd 0.60 0.60 0.60
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Ex_Terrain01:Mesh1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd UMBC_CAMPUS_SITE_PLAN.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 18.00
+newmtl Green_MatSG
+illum 4
+Kd 0.19 0.47 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Red_MatSG
+illum 4
+Kd 0.50 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Windows_MatSG
+illum 4
+Kd 0.35 0.39 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.47 0.24 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
